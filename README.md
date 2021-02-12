@@ -1,6 +1,6 @@
 # Background and Shadow generation via AI -- bgenie-GAN
 
-I have developed bgenie-GAN, a Generative Adverserial Network that works like magic and is capable of placing your car from road to shining showroom in just one click. It is a novel approach and have not yet published anywhere else up till date.
+I have developed bgenie-GAN, a Generative Adversarial Network that works like magic and is capable of placing your car from road to shining showroom in just one click. It is a novel approach and have not yet published anywhere else up till date.
 #Try - https://www.spyne.ai/tech/cars/
 
 One to two paragraph statement about your product and what it does.
