@@ -10,9 +10,9 @@ I have developed bgenie-GAN, a Generative Adversarial Network that works like ma
 ![](images/car_4.png)
 
 
-![](images/car_7.jpg)
-![](images/_car_7.png)
-![](images/car_7.png)
+![](images/car_8.jpg)
+![](images/_car_8.png)
+![](images/car_8.png)
 ## Installation
 
 OS X & Linux:
