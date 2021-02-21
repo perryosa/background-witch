@@ -11,6 +11,3 @@ With some modification in loss and architecture we have also achieved shadow and
 ![](results/23_white.png )
 ![](results/23_grey.png)
 
-# Try HERE
-
-https://www.spyne.ai/tech/footwear
