@@ -3,11 +3,11 @@ With some modification in loss and architecture we have also achieved shadow and
 
 # Results 
 
-![](results/footwear (21).jpg)
+![](results/21.jpg)
 ![](results/21_white.png )
 ![](results/21_grey.png)
 
-![](results/footwear (23).jpg)
+![](results/23.jpg)
 ![](results/23_white.png )
 ![](results/23_grey.png)
 
