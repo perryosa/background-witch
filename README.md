@@ -6,7 +6,7 @@ I have developed bgenie-GAN at Spyne, a Generative Adversarial Network that work
 # Results 
 
 ![](images/2a.jpg)
-![](images/2ag.png)
+![](images/2agn.png)
 
 ![](images/car_4.jpg)
 ![](images/_car_4.png)
