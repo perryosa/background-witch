@@ -5,7 +5,7 @@ I have developed bgenie-GAN at Spyne, a Generative Adversarial Network that work
 
 # Results 
 
-![Alt Text](images/ezgif.com-video-to-gif.gif
+![Alt Text](images/ezgif.com-video-to-gif.gif)
 
 ![](images/2a.jpg)
 ![](images/2agn.png)
